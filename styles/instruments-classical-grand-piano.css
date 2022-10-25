@@ -1,0 +1,220 @@
+.instruments-classical-grand-piano-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.instruments-classical-grand-piano-header {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.instruments-classical-grand-piano-navlink {
+  display: contents;
+}
+.instruments-classical-grand-piano-container1 {
+  flex: 0 0 auto;
+  width: 141px;
+  height: auto;
+  display: flex;
+  transition: 0.3s;
+  align-items: space-between;
+  flex-direction: row;
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-container1:hover {
+  cursor: pointer;
+}
+.instruments-classical-grand-piano-pasted-image {
+  width: 15px;
+  height: 15px;
+  align-self: center;
+  margin-right: var(--dl-space-space-halfunit);
+}
+.instruments-classical-grand-piano-text {
+  font-style: normal;
+  font-weight: 900;
+}
+.instruments-classical-grand-piano-nav {
+  display: flex;
+}
+.instruments-classical-grand-piano-nav1 {
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+}
+.instruments-classical-grand-piano-navlink1 {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-navlink1:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-link {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-link:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-link1 {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-link1:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-link2 {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-link2:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-link3 {
+  transition: 0.3s;
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-link3:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-btn-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.instruments-classical-grand-piano-login {
+  transition: 0.3s;
+  border-width: 0px;
+  margin-right: var(--dl-space-space-twounits);
+}
+.instruments-classical-grand-piano-login:hover {
+  cursor: pointer;
+}
+.instruments-classical-grand-piano-register {
+  color: var(--dl-color-gray-white);
+  transition: 0.3s;
+  background-color: #000000;
+}
+.instruments-classical-grand-piano-register:hover {
+  color: var(--dl-color-gray-black);
+  cursor: pointer;
+  background-color: var(--dl-color-gray-white);
+}
+.instruments-classical-grand-piano-hero {
+  width: 100%;
+  height: 694px;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  min-height: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.instruments-classical-grand-piano-container2 {
+  height: 327px;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.instruments-classical-grand-piano-pasted-image1 {
+  width: 127px;
+  height: 127px;
+  align-self: center;
+}
+.instruments-classical-grand-piano-text1 {
+  font-size: 2rem;
+  margin-top: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.instruments-classical-grand-piano-text2 {
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 300;
+}
+.instruments-classical-grand-piano-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  justify-content: flex-end;
+}
+.instruments-classical-grand-piano-button {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-700);
+  border-width: 2px;
+  flex-direction: row;
+  background-color: var(--dl-color-gray-white);
+}
+.instruments-classical-grand-piano-pasted-image2 {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  opacity: 1;
+  margin-right: var(--dl-space-space-halfunit);
+}
+.instruments-classical-grand-piano-text3 {
+  opacity: 1;
+}
+.instruments-classical-grand-piano-container4 {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 571px;
+  display: flex;
+  position: relative;
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.instruments-classical-grand-piano-image {
+  width: 1281px;
+  height: 199px;
+  object-fit: cover;
+}
+.instruments-classical-grand-piano-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: center;
+}
