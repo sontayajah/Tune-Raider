@@ -1,0 +1,371 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css);
+.instruments-classical-grand-piano-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.instruments-classical-grand-piano-header {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.instruments-classical-grand-piano-navlink {
+  display: contents;
+}
+.instruments-classical-grand-piano-container1 {
+  flex: 0 0 auto;
+  width: 141px;
+  height: auto;
+  display: flex;
+  transition: 0.3s;
+  align-items: space-between;
+  flex-direction: row;
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-container1:hover {
+  cursor: pointer;
+}
+.instruments-classical-grand-piano-pasted-image {
+  width: 15px;
+  height: 15px;
+  align-self: center;
+  margin-right: var(--dl-space-space-halfunit);
+}
+.instruments-classical-grand-piano-text {
+  font-style: normal;
+  font-weight: 900;
+}
+.instruments-classical-grand-piano-nav {
+  display: flex;
+}
+.instruments-classical-grand-piano-nav1 {
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+}
+.instruments-classical-grand-piano-navlink1 {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-navlink1:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-link {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-link:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-link1 {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-link1:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-link2 {
+  transition: 0.3s;
+  text-decoration: none;
+  margin-right: var(--dl-space-space-threeunits);
+}
+.instruments-classical-grand-piano-link2:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-link3 {
+  transition: 0.3s;
+  text-decoration: none;
+}
+.instruments-classical-grand-piano-link3:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.instruments-classical-grand-piano-btn-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.instruments-classical-grand-piano-login {
+  transition: 0.3s;
+  border-width: 0px;
+  margin-right: var(--dl-space-space-twounits);
+}
+.instruments-classical-grand-piano-login:hover {
+  cursor: pointer;
+}
+.instruments-classical-grand-piano-register {
+  color: var(--dl-color-gray-white);
+  transition: 0.3s;
+  background-color: #000000;
+}
+.instruments-classical-grand-piano-register:hover {
+  color: var(--dl-color-gray-black);
+  cursor: pointer;
+  background-color: var(--dl-color-gray-white);
+}
+.instruments-classical-grand-piano-hero {
+  width: 100%;
+  height: 694px;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  min-height: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.instruments-classical-grand-piano-container2 {
+  height: 327px;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.instruments-classical-grand-piano-pasted-image1 {
+  width: 127px;
+  height: 127px;
+  align-self: center;
+}
+.instruments-classical-grand-piano-text1 {
+  font-size: 2rem;
+  margin-top: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.instruments-classical-grand-piano-text2 {
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 300;
+}
+.instruments-classical-grand-piano-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  justify-content: flex-end;
+}
+.instruments-classical-grand-piano-button {
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-gray-900);
+  border-width: 2px;
+  flex-direction: row;
+  background-color: var(--dl-color-gray-white);
+}
+.instruments-classical-grand-piano-pasted-image2 {
+  width: 20px;
+  height: 20px;
+  opacity: 1;
+  margin-right: var(--dl-space-space-halfunit);
+}
+.instruments-classical-grand-piano-text3 {
+  opacity: 1;
+}
+.instruments-classical-grand-piano-container4 {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 571px;
+  display: flex;
+  position: relative;
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.instruments-classical-grand-piano-image {
+  width: 1281px;
+  height: 199px;
+  object-fit: cover;
+}
+.instruments-classical-grand-piano-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: center;
+}
+.instruments-containerMetronome {
+  top: 365px;
+  flex: 0 0 auto;
+  right: 47px;
+  width: 200px;
+  display: none;
+  z-index: 100;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.metronome-container {
+  width: 200px;
+  height: auto;
+  position: absolute;
+  background: white;
+  border: 2px solid;
+  border-radius: 4px;
+  border-color: var(--dl-color-gray-900);
+}
+.metronome-container .counter {
+  width: 100%;
+  padding-bottom: 10px;
+  background: white;
+  text-align: center;
+}
+.metronome-container .counter .dot {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin: 25px 10px 10px 10px;
+  background: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.metronome-container .counter .active {
+  background: #5ec2ff;
+}
+.metronome-container .controls {
+  color: black;
+  padding: 20px;
+  text-align: center;
+
+}
+.metronome-container .controls label {
+  display: block;
+  margin-bottom: 18px;
+}
+.metronome-container .controls label span {
+  background: #fff;
+  color: black;
+  padding: 5px;
+}
+.metronome-container .controls label span i {
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.metronome-container .controls label span i:hover {
+  color: #fa6900;
+}
+.metronome-container .controls input {
+  width: 50px;
+  border: 0px solid;
+  color: #222;
+  text-align: center;
+  padding: 4px;
+  border: 1px solid;
+  border-radius: 3px;
+  border-color: var(--dl-color-gray-900);;
+}
+.metronome-container .controls select {
+  border: 0px;
+  color: #222;
+}
+.metronome-container .controls .play-btn {
+  width: 70%;
+  background: #d6e26d;
+  border: 0px;
+  border-radius: 5px;
+  padding: 12px;
+  color: #3d430d;
+  transition: background 0.3s;
+}
+.metronome-container .controls .play-btn:hover {
+  background: #e8efad;
+}
+.metronome-container .controls .tap-btn {
+  width: 45%;
+  background: #888;
+  border: 0px;
+  border-radius: 5px;
+  padding: 12px;
+  color: #fbfbfb;
+  transition: background 0.3s;
+}
+.metronome-container .controls .tap-btn:hover {
+  background: #959595;
+}
+input[type="checkbox"] {
+  display: none;
+}
+input[type="checkbox"] + label {
+  display: inline-block !important;
+  height: 15px;
+  width: 15px;
+  margin: 0px 4px 0px 0px !important;
+  padding: 0px;
+  position: relative;
+  top: 4px;
+  background: #fff;
+  border: 1px solid;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type="checkbox"] + label:before {
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 8px;
+  background: #f38630;
+  opacity: 0;
+  position: relative;
+  top: -5px;
+  right: -1px;
+  transform: skewX(0deg);
+  transition: all 0.24s;
+}
+input[type="checkbox"] + label:after {
+  content: "";
+  display: inline-block;
+  width: 4px;
+  height: 15px;
+  background: #f38630;
+  opacity: 0;
+  position: relative;
+  top: -5px;
+  right: -3px;
+  transform: skewX(0deg);
+  transition: all 0.24s;
+}
+input[type="checkbox"]:checked + label:before {
+  transform: skewX(30deg);
+  opacity: 1;
+}
+input[type="checkbox"]:checked + label:after {
+  transform: skewX(-30deg);
+  opacity: 1;
+}
+input[type="test"]:checked + label:after {
+  transform: skewX(-30deg);
+  opacity: 1;
+}
