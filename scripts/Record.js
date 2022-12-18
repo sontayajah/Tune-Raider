@@ -45,7 +45,7 @@ jQuery(document).ready(function () {
                                 .attr('src', url);
 
                         // Prepare the download link
-                        var downloadObject = $('<a>&#9660;</a>')
+                        var downloadObject = $('')
                                 .attr('href', url)
                                 .attr('download', new Date().toUTCString() + '.wav');
 
