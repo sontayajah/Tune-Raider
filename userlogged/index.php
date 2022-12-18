@@ -135,19 +135,19 @@ if (isset($_GET['logout'])) {
                 </a>
                 <div class="home-nav">
                     <nav class="home-nav1">
-                        <a href="instruments-selection.html" class="home-navlink1">
+                        <a href="instruments-selection.php" class="home-navlink1">
                             Instruments
                         </a>
-                        <a href="music-sheets.html" class="home-navlink1">
+                        <a href="music-sheets.php" class="home-navlink1">
                             Music Sheets
                         </a>
-                        <a href="learning.html" class="home-link1">
+                        <a href="learning.php" class="home-link1">
                             Learning
                         </a>
                         <a href="https://example.com"class="home-link2">
                             Tutorial
                         </a>
-                        <a href="recording.html" class="home-link3">
+                        <a href="recording.php" class="home-link3">
                             Record
                         </a>
                     </nav>
@@ -162,7 +162,7 @@ if (isset($_GET['logout'])) {
                     <h1 class="home-text1">TUNE RAIDER</h1>
                     <h1 class="home-text2">VIRTUAL MUSIC INSTRUMENTS</h1>
                     <span class="home-text3">Play anything, anywhere</span>
-                    <a href="instruments-selection.html" class="home-navlink2 button">
+                    <a href="instruments-selection.php" class="home-navlink2 button">
                         Get Started
                     </a>
                 </div>
