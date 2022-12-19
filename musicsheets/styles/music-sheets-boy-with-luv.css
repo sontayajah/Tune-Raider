@@ -1,0 +1,222 @@
+.music-sheets-boy-with-luv-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.music-sheets-boy-with-luv-header {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.music-sheets-boy-with-luv-navlink {
+  display: contents;
+}
+.music-sheets-boy-with-luv-container1 {
+  flex: 0 0 auto;
+  width: 141px;
+  height: auto;
+  display: flex;
+  transition: 0.3s;
+  align-items: space-between;
+  flex-direction: row;
+  text-decoration: none;
+}
+.music-sheets-boy-with-luv-container1:hover {
+  cursor: pointer;
+}
+.music-sheets-boy-with-luv-pasted-image {
+  width: 15px;
+  height: 15px;
+  align-self: center;
+  margin-right: var(--dl-space-space-halfunit);
+}
+.music-sheets-boy-with-luv-text {
+  font-style: normal;
+  font-weight: 900;
+}
+.music-sheets-boy-with-luv-nav {
+  display: flex;
+}
+.music-sheets-boy-with-luv-nav1 {
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+}
+.music-sheets-boy-with-luv-navlink1 {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.music-sheets-boy-with-luv-navlink1:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.music-sheets-boy-with-luv-link {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.music-sheets-boy-with-luv-link:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.music-sheets-boy-with-luv-link1 {
+  transition: 0.3s;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.music-sheets-boy-with-luv-link1:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.music-sheets-boy-with-luv-link2 {
+  transition: 0.3s;
+  margin-right: var(--dl-space-space-threeunits);
+  text-decoration: none;
+}
+.music-sheets-boy-with-luv-link2:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.music-sheets-boy-with-luv-link3 {
+  transition: 0.3s;
+  text-decoration: none;
+}
+.music-sheets-boy-with-luv-link3:hover {
+  font-size: larger;
+  font-weight: bold;
+}
+.music-sheets-boy-with-luv-btn-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.music-sheets-boy-with-luv-login {
+  transition: 0.3s;
+  border-width: 0px;
+  margin-right: var(--dl-space-space-twounits);
+}
+.music-sheets-boy-with-luv-login:hover {
+  cursor: pointer;
+}
+.music-sheets-boy-with-luv-register {
+  color: var(--dl-color-gray-white);
+  transition: 0.3s;
+  background-color: #000000;
+}
+.music-sheets-boy-with-luv-register:hover {
+  color: var(--dl-color-gray-black);
+  cursor: pointer;
+  background-color: var(--dl-color-gray-white);
+}
+.music-sheets-boy-with-luv-hero {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  min-height: auto;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.music-sheets-boy-with-luv-note-body {
+  width: 100%;
+  height: auto;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-self: center;
+  min-height: 0vh;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.music-sheets-boy-with-luv-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.music-sheets-boy-with-luv-image {
+  width: 150px;
+  object-fit: cover;
+  margin-left: var(--dl-space-space-sixunits);
+}
+.music-sheets-boy-with-luv-container3 {
+  flex: 0 0 auto;
+  width: 314px;
+  height: 150px;
+  display: flex;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-twounits);
+  flex-direction: column;
+  justify-content: center;
+}
+.music-sheets-boy-with-luv-text1 {
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+.music-sheets-boy-with-luv-text2 {
+  margin-top: var(--dl-space-space-halfunit);
+}
+.music-sheets-boy-with-luv-container4 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.music-sheets-boy-with-luv-image1 {
+  width: 1200px;
+  object-fit: cover;
+}
+.music-sheets-boy-with-luv-image2 {
+  width: 1200px;
+  object-fit: cover;
+}
+.music-sheets-boy-with-luv-image3 {
+  width: 1200px;
+  object-fit: cover;
+}
+.music-sheets-boy-with-luv-image4 {
+  width: 1200px;
+  height: 1520px;
+  object-fit: cover;
+}
+.music-sheets-boy-with-luv-image5 {
+  width: 1200px;
+  height: 1327px;
+  object-fit: cover;
+}
+.music-sheets-boy-with-luv-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: center;
+}
